@@ -1,0 +1,2 @@
+// Auto-generated DTO for Finance
+exports.Output = expect.objectContaining({ "statusCode": expect.any(Number), "data": expect.objectContaining({ "total": expect.any(Number), "monthly": expect.arrayContaining([expect.objectContaining({ "name": expect.any(String), "revenue": expect.any(Number) })]) }), "meta": expect.objectContaining({ "requestId": expect.any(String), "timestamp": expect.any(String) }) });

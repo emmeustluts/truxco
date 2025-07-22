@@ -1,0 +1,2 @@
+// Auto-generated DTO for Getagencylangcur
+exports.Output = expect.objectContaining({ "statusCode": expect.any(Number), "data": expect.objectContaining({ "supportedLangs": expect.arrayContaining([expect.any(String)]), "supportedCurrency": expect.arrayContaining([expect.any(String)]), "lang": expect.any(String), "currency": expect.any(String) }), "meta": expect.objectContaining({ "requestId": expect.any(String), "timestamp": expect.any(String) }) });

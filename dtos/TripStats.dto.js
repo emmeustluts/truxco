@@ -1,0 +1,2 @@
+// Auto-generated DTO for TripStats
+exports.Output = expect.objectContaining({ "statusCode": expect.any(Number), "data": expect.arrayContaining([expect.objectContaining({ "totalTrips": expect.any(String), "publicTrips": expect.any(String), "privateTrips": expect.any(String), "draftTrips": expect.any(String), "cancelledTrips": expect.any(String) })]), "meta": expect.objectContaining({ "requestId": expect.any(String), "timestamp": expect.any(String) }) });

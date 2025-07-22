@@ -1,0 +1,2 @@
+// Auto-generated DTO for Addons
+exports.Output = expect.objectContaining({ "statusCode": expect.any(Number), "data": expect.arrayContaining([expect.objectContaining({ "id": expect.any(Number), "addonId": expect.any(String), "category": expect.any(String), "price": expect.any(Number), "status": expect.any(String), "updatedAt": expect.any(String), "title": expect.any(String), "description": expect.any(String), "lang": expect.any(String) })]), "meta": expect.objectContaining({ "requestId": expect.any(String), "timestamp": expect.any(String) }) });

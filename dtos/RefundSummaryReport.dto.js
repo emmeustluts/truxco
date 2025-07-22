@@ -1,0 +1,2 @@
+// Auto-generated DTO for RefundSummaryReport
+exports.Output = expect.arrayContaining([expect.objectContaining({ "refundId": expect.any(String), "invoiceNumber": expect.any(String), "customerName": expect.any(String), "refundAmount": expect.any(String), "dateOfRefund": expect.any(String), "paymentMethodUsed": expect.any(String), "reason": expect.any(String), "refundStatus": expect.any(String), "bookingId": expect.any(String), "tourId": expect.any(String) })]);

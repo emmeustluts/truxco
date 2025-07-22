@@ -1,0 +1,2 @@
+// Auto-generated DTO for Invoice
+exports.Output = expect.arrayContaining([expect.objectContaining({ "invoiceId": expect.any(String), "bookingId": expect.any(String), "tripId": expect.any(String), "customerId": expect.any(String), "totalAmount": expect.any(String), "invoiceDate": expect.any(String), "paymentRefId": expect.any(String), "dueDate": expect.any(String), "paymentStatus": expect.any(String), "invoiceStatus": expect.any(String), "invoicePdf": expect.any(String) })]);

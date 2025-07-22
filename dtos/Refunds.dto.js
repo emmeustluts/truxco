@@ -1,0 +1,2 @@
+// Auto-generated DTO for Refunds
+exports.Output = expect.objectContaining({ "statusCode": expect.any(Number), "data": expect.objectContaining({ "total": expect.any(Number), "monthly": expect.arrayContaining([expect.objectContaining({ "name": expect.any(String), "refund": expect.any(Number) })]) }), "meta": expect.objectContaining({ "requestId": expect.any(String), "timestamp": expect.any(String) }) });
